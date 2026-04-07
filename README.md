@@ -15,6 +15,8 @@
 <br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/riaz-uddin-40r/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+   <a href="https://www.instagram.com/mdriaz8813/"><img src="https://img.shields.io/badge/-Instagram-6228d7?style=flat&logo=Instagram&logoColor=white" alt="InstaGram Badge"/></a>
+  <a href="https://www.facebook.com/mdriaj040"><img src="https://img.shields.io/badge/-Facbook-1877F2?style=flat&logo=Facbook&logoColor=white" alt="Facbook Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Daily%20Dev-000000?style=flat&logo=daily.dev&logoColor=white" alt="Daily Dev Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
